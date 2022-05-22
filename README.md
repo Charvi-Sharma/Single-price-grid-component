@@ -7,6 +7,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,6 +25,11 @@ Users should be able to:
 
 ![](./images/Screenshot_Desktop.png)
 ![](./images/Screenshot_Mobile.png)
+
+### Links
+
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-pricing-component-using-css-grid-PRob7ANEC0
+- Live Site URL:  https://charvi-sharma.github.io/Single-price-grid-component/
 
 ## My process
 
